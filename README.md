@@ -3,13 +3,13 @@
 - Generate the csv file for constituencies and make sure that directory for code and csv file should be same to get the output.
 - Use pip install -r requirement.txt to install the required dependencies.
 
-![](Aspose.Words.61c5acaa-123f-429e-9e25-35![Aspose Words 61c5acaa-123f-429e-9e25-351067e5c3f6 001](https://github.com/23tanisha/Lok_Sabha_Results/assets/104255244/0e48576b-ce0d-4e6d-ac24-28193c025ee0)
-1067e5c3f6.001.png)
+(https://github.com/23tanisha/Lok_Sabha_Results/assets/104255244/0e48576b-ce0d-4e6d-ac24-28193c025ee0)
 
 - The first step is to download the web content to scrap the data.
 - To look out on the data for scrapping about election result page.
 
-![](Aspose.Words.61c5acaa-123f-429e-9e25-351067e5c3f6.002.png)
+
+![Aspose Words 61c5acaa-123f-429e-9e25-351067e5c3f6 002](https://github.com/23tanisha/Lok_Sabha_Results/assets/104255244/76edd10c-72d2-413a-aee4-37536cf317f1)
 
 - Parsing of HTML content to extract information about political parties.
 - It identifies the political parties performance and then printed for verification. 
